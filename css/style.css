@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Monserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #FAFBFD;
+}
+
+header .navbar-menu ul {
+  margin: auto;
+}
+header .navbar-menu ul li {
+  margin: 20px 0;
+  padding: 40px 20px;
+}
+header .navbar-menu ul li a {
+  font-family: "Monserrat", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #141414;
+}
+header a h3 {
+  font-family: "Monserrat", sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #141414;
+  font-size: 30px;
+}
+header a h3 span {
+  font-size: 18px;
+  color: #2298bd;
+}
+header a h3 .i {
+  color: #2298bd;
+  font-size: 35px;
+}
+header a h5 {
+  font-family: "Monserrat", sans-serif;
+  font-weight: bold;
+  color: #141414;
+  font-size: 26px;
+  margin-bottom: 15px;
+  line-height: 20px;
+}
+header a h5 .i {
+  color: #2298bd;
+  font-size: 35px;
+}
+header a p {
+  line-height: 30px;
+  float: right;
+  letter-spacing: 1px;
+  font-weight: normal;
+  margin-bottom: 0;
+}
+header a p span {
+  font-size: 30px;
+  color: #0ed7b5;
+}
+
+.section2 {
+  max-height: 100vh;
+}
+.section2 .row .col-md-1 .social-icon {
+  margin-right: 20px;
+  text-align: center;
+  margin-top: 230px;
+  margin-bottom: 20px;
+  float: left;
+}
+.section2 .row .col-md-1 .social-icon a {
+  text-align: center;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: bold;
+  color: #2298bd;
+}
+.section2 .row .col-md-1 .social-icon a i {
+  text-align: center;
+  margin-top: 15px;
+  line-height: 0.6;
+  font-size: 20px;
+  color: #141414;
+}
+.section2 .row .col-md-10 .text-menu {
+  font-weight: normal;
+  color: #141414;
+}
+.section2 .row .col-md-10 .text-menu .animation-fill-mode {
+  animation-fill-mode: both;
+}
+.section2 .row .col-md-10 .text-menu p {
+  font-size: 24px;
+  letter-spacing: 0.005em;
+  margin-bottom: 30px;
+}
+.section2 .row .col-md-10 .text-menu h1 {
+  font-weight: 800;
+  font-size: 35px;
+  line-height: 40px;
+  margin-bottom: 30px;
+}
+.section2 .row .col-md-10 .text-menu .p {
+  font-size: 20px;
+  line-height: 105.4%;
+}
+.section2 .row .col-md-10 .text-menu .href a img {
+  padding: 60px 0;
+  width: 26%;
+  height: auto;
+}
+.section2 .row .col-md-10 .text-menu .images {
+  text-align: right;
+  margin-top: -210px;
+}
+.section2 .row .col-md-10 .text-menu .images img {
+  width: 70%;
+  height: auto;
+}
+
+/*# sourceMappingURL=style.css.map */
